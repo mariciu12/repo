@@ -12,6 +12,7 @@ int function(int x){
             x=function(x);
         }
     return x;
+    ///Ioana a fost aici
 }
 
 int main(){
